@@ -1,11 +1,10 @@
 body {
   font-family: "Gulzar", serif;
   margin: 0;
-  height: 100%;
 }
 .half-width {
-  height: 100px;
-  width: 100px;
+  height: 100%;
+  width: 50%;
 }
 
 h1 {
